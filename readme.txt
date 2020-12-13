@@ -24,5 +24,3 @@ member.py: It defines the details of a member record
 members.py: It provides all the functionalities to work with the members table
 issue_record.py: Defines chich information are required to issue a book to a member
 issue_records.py: It provides all the functionalities to issue and return books
-
-For more free projects visit: ApkaGuruji.com
